@@ -21,11 +21,11 @@ on:
       MSI_NAME: 
         description: 'User Managed Identity'
         required: true
-        default: 'user-msi'
+        default: 'vidhyabahl'
       MSI_RESOURCE_GROUP: 
         description: 'Resource Group where User Managed Identity is located'
         required: true
-        default: 'msi-resource-group'
+        default: 'myAuthResourceGroup'
   
 # CONFIGURATION
 # For help, go to https://github.com/Azure/Actions
